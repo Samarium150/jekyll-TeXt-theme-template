@@ -1,6 +1,6 @@
 # jekyll-TeXt-theme-template
 [![](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=fff)](https://jekyllrb.com/)
-[![GitHub](https://img.shields.io/github/license/Samarium/jekyll-TeXt-theme-template?style=flat-square)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/Samarium150/jekyll-TeXt-theme-template?style=flat-square)](LICENSE)
 
 ### English
 Create an static website by using Jekyll [TeXt](https://github.com/kitian616/jekyll-TeXt-theme) theme
