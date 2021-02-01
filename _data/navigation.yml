@@ -1,5 +1,10 @@
 header:
   - titles:
+      en        : &EN       Articles
+      zh-Hans   : &ZH_HANS  文章
+    url: /assets/articles/articles.html
+
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -48,3 +53,9 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+articles:
+  - title: category_titles
+    children:
+      - title: category_1
+        url: /assets/articles/category_1/category_1.html
